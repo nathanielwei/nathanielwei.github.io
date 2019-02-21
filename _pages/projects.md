@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-
-======
 * Optimal execution, Feb 2018 - Jul 2018
   * Presented and facilitated discussion during three China International Capital Corporation meetings to present our proposal and research outcomes to Managing Directors, Executive Directors, and Analysts.
   * Conducted research on financial and commodity futures using Deep Learning. I implemented Temporal Convolutional Networks and Long Short Term Memory Networks for classification problems in finance. For limited order book data, I designed an environment to mimic the historical market to train and test our reinforcement algorithm.
