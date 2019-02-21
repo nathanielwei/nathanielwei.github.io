@@ -56,21 +56,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
 
+  
+Awards
+======
 * Aug-2018 Postgraduate Studentship by The Chinese University of Hong Kong
 * Feb-2015 Teaching Postgraduate Studentship (TPS) by The Hong Kong Polytechnic University (Granted by HKPU to graduate students on a basis of merit.)
 * Aug-2013 Excellent Thesis won the third place of the “Shenzhen Cup” National Math Model Competition Summer Camp (Awarded by the Chinese Society for Industrial and Applied Mathematics)
