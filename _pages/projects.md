@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Projects
+
 ======
 * Optimal execution, Feb 2018 - Jul 2018
   * Presented and facilitated discussion during three China International Capital Corporation meetings to present our proposal and research outcomes to Managing Directors, Executive Directors, and Analysts.
