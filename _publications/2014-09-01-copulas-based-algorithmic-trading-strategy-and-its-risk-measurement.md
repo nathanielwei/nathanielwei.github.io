@@ -1,7 +1,7 @@
 ---
 title: "Copulas-based algorithmic trading strategy and its risk measurement"
 collection: publications
-permalink: /publication/2014-09-01-paper-title-number-3
+permalink: /publication/2014-09-01-copulas-based-algorithmic-trading-strategy-and-its-risk-measurement
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2014-09-01
 venue: 'Statistics and Decision'
