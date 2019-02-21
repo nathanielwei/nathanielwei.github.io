@@ -2,17 +2,11 @@
 
 Name Name:
   name        : "Zikai (Nathaniel) Wei"
-  uri         : "http://name.com"
+  uri         : "http://nathanielwei.github.io"
   email       : "wz018@ie.cuhk.edu.hk"
-  bio         : "This is the first name."
+  bio         : "PhD student, CUHK-SenseTime Joint Lab."
   avatar      : "bio-photo.jpeg"
   twitter     : "nathanielwei"
-  google_plus : "Name"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+
+
