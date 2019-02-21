@@ -83,7 +83,7 @@ author:
   name             : "Zikai (Nathaniel) Wei"
   avatar           : "profile.jpeg"
   bio              : "PhD student, CUHK-SenseTime Joint Lab"
-  location         : "https://www.google.com/maps/place/Ho+Sin-Hang+Engineering+Building/@22.4310427,114.2093287,15z/data=!4m5!3m4!1s0x0:0xf3d7947db4f6ad99!8m2!3d22.4178746!4d114.2072636"
+  location         : #"https://www.google.com/maps/place/Ho+Sin-Hang+Engineering+Building/@22.4310427,114.2093287,15z/data=!4m5!3m4!1s0x0:0xf3d7947db4f6ad99!8m2!3d22.4178746!4d114.2072636"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=mZn8X9UAAAAJ&hl=en"
   email            : "wz018@ie.cuhk.edu.hk"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nathanielzikaiwei/"
+  linkedin         : "nathanielzikaiwei"
   orcid            : "https://orcid.org/0000-0002-8749-2188"
   pinterest        :
   soundcloud       :
