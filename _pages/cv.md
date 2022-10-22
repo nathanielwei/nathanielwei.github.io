@@ -13,23 +13,20 @@ redirect_from:
 
 Work experience
 ======
-* May 2022 - Nov 2022: Quantitative Analyst (Intern.), Bosera Asset Management Co., Limited.
+* May 2022 - Nov 2022: Quantitative Analyst (Intern.), Bosera Asset Management Co., Limited., China
   * Build a set of deep learning frameworks from scratch, related tools: Python, PyTorch, MSSQL, WIND database.
   ∗ Deep multifactor model: develop a deep cross-sectional multifactor model that incorporates financial insights and
 stock relationships on a dynamic and multi-relational graph in the task of factoring investing, learning a deep factor from hundreds of style factors, as well as interpreting the portion of the quantity that comes from the original input factors.
   ∗ Deep risk model: develop a deep learning counterpart to Barra risk models.
   ∗ Intraday data mining. Tentatively mining style factors from high-frequency data. 
-* Feb 2018 - Jul 2018:  Research Intern.
-  * SenseTime Group Limited, Hong Kong SAR, China
+* Feb 2018 - Jul 2018:  Research Intern., SenseTime Group Limited, Hong Kong SAR
   * Duties included: research on financial and commodity futures using Deep Learning under Division of Intelligent Finance
   * Supervisors: Liu Chunxiao, Cao Yang
-
-* Apr 2017 - Feb 2018: Research Assistant
-  * The Hong Kong Polytechnic University
+* Apr 2017 - Feb 2018: Research Assistant, The Hong Kong Polytechnic University. Hong Kong SAR
   * Duties included: 
     * project titled "Artificial Intelligence in Finance"
     * Designed and implemented a multiprocessing framework that processes 30+ indicators of all A-H minute bar shares and the estimation of their regime switching models
-  * Supervisor: Prof. Cedric Yiu
+  * Supervisor: Prof. Wong Heunng, and Prof. Cedric Yiu
 
 ;* Feb 2016 - Apr 2017: Co-founder, Investment Director
 ;  * Shenzhen Kaiyao Asset Management Co., Ltd, Shenzhen, China
@@ -48,16 +45,17 @@ Education
 
 Skills
 ======
-* Quantitative Research Interests
-  * Reinforcement Learning, Deep Learning, Statistical Modeling, Machine Learning, 
-Quantitative Trading Strategies, Backtesting, Volatility Modeling 
+* Coding and Database Languages: Python, Matlab, R, C++, SQL
+* Deep Learning Frameworks: PyTorch
+* Platforms: Linux, Macintosh, Windows
+* Financial Databases: Refinitiv (Reuters), FactSet, Wind, and Bloomberg
 
-* Programming
+* Details
   * Highly Proficient in Python and PyTorch 
   * Highly Proficient in Matlab 
   * Familiar with C++ and C 
   * Proficient with Windows, Mac, and Ubuntu operating systems
-  * Proficient with Bloomberg and Wind databases
+  * Proficient with Refinitiv, FactSet, and Wind databases
 
 
 Publications
