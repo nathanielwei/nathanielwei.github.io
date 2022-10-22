@@ -14,11 +14,11 @@ redirect_from:
 Work experience
 ======
 * May 2022 - Nov 2022: Quantitative Analyst (Intern.), Bosera Asset Management Co., Limited., China
-  * Build a set of deep learning frameworks from scratch, related tools: Python, PyTorch, MSSQL, WIND database.
-  ∗ Deep multifactor model: develop a deep cross-sectional multifactor model that incorporates financial insights and
+    * Build a set of deep learning frameworks from scratch, related tools: Python, PyTorch, MSSQL, WIND database.
+    ∗ Deep multifactor model: develop a deep cross-sectional multifactor model that incorporates financial insights and
 stock relationships on a dynamic and multi-relational graph in the task of factoring investing, learning a deep factor from hundreds of style factors, as well as interpreting the portion of the quantity that comes from the original input factors.
-  ∗ Deep risk model: develop a deep learning counterpart to Barra risk models.
-  ∗ Intraday data mining. Tentatively mining style factors from high-frequency data. 
+    ∗ Deep risk model: develop a deep learning counterpart to Barra risk models.
+    ∗ Intraday data mining. Tentatively mining style factors from high-frequency data. 
 * Feb 2018 - Jul 2018:  Research Intern., SenseTime Group Limited, Hong Kong SAR
   * Duties included: research on financial and commodity futures using Deep Learning under Division of Intelligent Finance
   * Supervisors: Liu Chunxiao, Cao Yang
