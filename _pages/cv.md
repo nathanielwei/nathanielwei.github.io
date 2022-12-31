@@ -13,7 +13,7 @@ redirect_from:
 
 Work experience
 ======
-* May 2022 - Nov 2022: Quantitative Analyst (Intern.), Bosera Asset Management Co., Limited., China
+* May 2022 - Dec 2022: Quantitative Analyst (Intern.), Bosera Asset Management Co., Limited., China
     * Build a set of deep learning frameworks from scratch, related tools: Python, PyTorch, MSSQL, WIND database. 
     * Deep multifactor model: develop a deep cross-sectional multifactor model that incorporates financial insights and stock relationships on a dynamic and multi-relational graph in the task of factoring investing, learning a deep factor from hundreds of style factors, as well as interpreting the portion of the quantity that comes from the original input factors. 
     * Deep risk model: develop a deep learning counterpart to Barra risk models. 
@@ -27,12 +27,6 @@ Work experience
     * Designed and implemented a multiprocessing framework that processes 30+ indicators of all A-H minute bar shares and the estimation of their regime switching models
   * Supervisor: Prof. Wong Heunng, and Prof. Cedric Yiu
 
-;* Feb 2016 - Apr 2017: Co-founder, Investment Director
-;  * Shenzhen Kaiyao Asset Management Co., Ltd, Shenzhen, China
-;  * Duties included: 
-;    * Cooperated and met with other parties and major clients, presented customized strategy designs to fulfill client needs, and sought funding from ;potential clients and partners
-;   * Conducted investment research on trading strategies and risk management.
-;    * Designed pattern recognition algorithms, including one class that uses a rule-based algorithm to find specific intraday patterns (e.g., stair-;shape) or daily patterns (e.g., cup-shape).
 
 
 Education
