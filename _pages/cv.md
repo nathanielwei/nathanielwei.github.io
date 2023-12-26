@@ -31,7 +31,7 @@ Work experience
 
 Education
 ======
-* Ph.D in Information Engineering, The Chinese University of Hong Kong, 2023 (expected)
+* Ph.D in Information Engineering, The Chinese University of Hong Kong, 2023
 * M.Phil. in Applied Mathematics, The Hong Kong Polytechnic University, 2017
 * B.A. in Finance and Banking, Shenzhen University, 2013
 
