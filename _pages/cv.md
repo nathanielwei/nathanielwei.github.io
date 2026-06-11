@@ -13,42 +13,39 @@ redirect_from:
 
 Work experience
 ======
-* May 2022 - Dec 2022: Quantitative Analyst (Intern.), Bosera Asset Management Co., Limited., China
-    * Build a set of deep learning frameworks from scratch, related tools: Python, PyTorch, MSSQL, WIND database. 
-    * Deep multifactor model: develop a deep cross-sectional multifactor model that incorporates financial insights and stock relationships on a dynamic and multi-relational graph in the task of factoring investing, learning a deep factor from hundreds of style factors, as well as interpreting the portion of the quantity that comes from the original input factors. 
-    * Deep risk model: develop a deep learning counterpart to Barra risk models. 
-    * Intraday data mining. Tentatively mining style factors from high-frequency data.  
-* Feb 2018 - Jul 2018:  Research Intern., SenseTime Group Limited, Hong Kong SAR
-  * Duties included: research on financial and commodity futures using Deep Learning under Division of Intelligent Finance
-  * Supervisors: Liu Chunxiao, Cao Yang
-* Apr 2017 - Feb 2018: Research Assistant, The Hong Kong Polytechnic University. Hong Kong SAR
-  * Duties included: 
-    * project titled "Artificial Intelligence in Finance"
-    * Designed and implemented a multiprocessing framework that processes 30+ indicators of all A-H minute bar shares and the estimation of their regime switching models
-  * Supervisor: Prof. Wong Heunng, and Prof. Cedric Yiu
+* Present: Quantitative AI Researcher
+    * Research on next-generation AI-driven quantitative investment, including end-to-end deep learning frameworks, adaptive factor modeling, market regime detection, and event-driven prediction.
+* Sep 2024 - Mar 2025: Analyst, Investment, top-tier hedge fund, Hong Kong SAR
+    * Built multi-market monitoring and analytics for short interest and cross-border flows; developed event-driven backtesting frameworks and automated integration of global factor datasets (Bloomberg/Barra).
+* May 2022 - Sep 2024: Quantitative Researcher, top-tier asset management firm, mainland China
+    * Designed and managed deep learning strategies for CSI 300/800 and mid/small-cap indices; built quant AI research platforms and led a cross-functional team delivering end-to-end model pipelines.
+    * Developed models including a multi-agent GPT factor discovery framework and the [HireVAE](/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model) hybrid regime-switching factor model.
+* Feb 2018 - Jul 2018: Research Intern, SenseTime Group Limited, Hong Kong SAR
+    * Developed TCN and LSTM models for financial and commodity futures prediction; built a simulated market environment for reinforcement learning on limit order book data.
+* Apr 2017 - Feb 2018: Research Assistant, The Hong Kong Polytechnic University, Hong Kong SAR
+    * Applied deep learning to jump detection across 11 global stock indices; designed parallel frameworks for regime-switching modeling on high-frequency market data.
+    * Supervisors: Prof. Heung Wong and Prof. Cedric Ka-Fai Yiu
 
 
 
 Education
 ======
-* Ph.D in Information Engineering, The Chinese University of Hong Kong, 2023
-* M.Phil. in Applied Mathematics, The Hong Kong Polytechnic University, 2017
-* B.A. in Finance and Banking, Shenzhen University, 2013
+* Ph.D. in Information Engineering, The Chinese University of Hong Kong, Aug 2018 - Jul 2023
+    * MMLab; supervisors: Prof. Xiaoou Tang and Prof. Dahua Lin
+    * Research: deep learning, sequential modeling, quantitative investment
+* M.Phil. in Applied Mathematics, The Hong Kong Polytechnic University, Jan 2014 - May 2017
+    * Supervisors: Prof. Heung Wong and Prof. Cedric Ka-Fai Yiu
+    * Research: financial statistics, volatility modeling
+* B.A. in Finance and Banking, Shenzhen University, Sep 2009 - Jun 2013
+    * Outstanding Graduate (rank 1/405); GPA 3.9/4.0
 
 
 Skills
 ======
-* Coding and Database Languages: Python, Matlab, R, C++, SQL
-* Deep Learning Frameworks: PyTorch
-* Platforms: Linux, Macintosh, Windows
-* Financial Databases: Refinitiv (Reuters), FactSet, Wind, and Bloomberg
-
-* Details
-  * Highly Proficient in Python and PyTorch 
-  * Highly Proficient in Matlab 
-  * Familiar with C++ and C 
-  * Proficient with Windows, Mac, and Ubuntu operating systems
-  * Proficient with Refinitiv, FactSet, and Wind databases
+* Deep Learning & AI for Quantitative Finance: PyTorch; end-to-end quant frameworks, factor models, regime detection
+* Programming: Python (primary), R, Matlab, C++, SQL
+* Platforms: Linux, macOS, Windows
+* Financial Data: Bloomberg, Barra, WIND, FactSet, Refinitiv
 
 
 Publications
@@ -61,17 +58,9 @@ Publications
   
 Awards
 ======
-* Aug-2018 Postgraduate Studentship by The Chinese University of Hong Kong
-* Feb-2015 Teaching Postgraduate Studentship (TPS) by The Hong Kong Polytechnic University (Granted by HKPU to graduate students on a basis of merit.)
-* Aug-2013 Excellent Thesis won the third place of the “Shenzhen Cup” National Math Model Competition Summer Camp (Awarded by the Chinese Society for Industrial and Applied Mathematics)
-* Jun-2013 Outstanding Graduate for the year 2013 by Shenzhen University (SZU) (top 3% students; 1st in Dept. of Fin. and Banking
-* May-2013 Awarded Excellent Graduation Thesis by SZU  (top 3% students)
-* Nov-2012 Gained Postgraduate Recommendation by SZU (top 2% students)
-* Oct-2012 The Second Prize of Academic Scholarship by SZU (top 5% students) 
-* Oct-2012 The Second Prize of Innovative Top Student by SZU (top 5% students)
-* Sep-2011 The third place of China Undergraduate Mathematical Contest in Modeling (Guangdong) 
-* May-2011 The first place of Math Model Competition of SZU (top 1%)
-* Nov-2011 The Top Academic Scholarship by SZU (top 1% students)
-* Nov-2010 The Top Academic Scholarship by SZU (top 1% students)
-* Nov-2010 The Academic Scholarship by Hong Kong Dah Sing Bank (top 3% students)
-
+* 2023: China Merchants Group New Star Training Camp — Outstanding Individual
+* 2019: CUHK-SenseTime Joint Lab Excellent Contribution Award
+* 2018-2023: Postgraduate Studentship, The Chinese University of Hong Kong
+* 2015: Teaching Postgraduate Studentship, The Hong Kong Polytechnic University
+* 2013: Outstanding Graduate, Shenzhen University (1st in Dept. of Finance and Banking)
+* 2012: National Postgraduate Recommendation (entrance examination waived)

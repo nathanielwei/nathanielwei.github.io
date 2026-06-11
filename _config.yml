@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zikai (Nathaniel) Wei"
 title_separator          : "-"
 name                     : &name "Zikai (Nathaniel) Wei"
-description              : &description "personal description"
+description              : &description "Quantitative AI Researcher | PhD, CUHK-MMLab | AI-driven Quantitative Investment & Deep Learning"
 url                      : https://nathanielwei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nathanielwei/nathanielwei.github.io"  #"academicpages/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zikai (Nathaniel) Wei"
   avatar           : "profile.jpeg"
-  bio              : "PhD student, CUHK-SenseTime Joint Lab"
-  location         : "Hong Kong" 
+  bio              : "Quantitative AI Researcher | PhD, CUHK-MMLab"
+  location         : "Hong Kong & Shenzhen"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=mZn8X9UAAAAJ&hl=en"
-  email            : "wz018@ie.cuhk.edu.hk"
+  email            : "w.nathaniel.s@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
