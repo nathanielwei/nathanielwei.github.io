@@ -38,7 +38,7 @@ author_profile: true
 
 * **Algorithmic Trading with Copulas**, 2014 (Shenzhen University)  
   * Copula-based pairs trading strategy and risk measurement.  
-  * Published in *统计与决策* (Statistics and Decision); see [publication](/publication/2014-09-01-copulas-based-algorithmic-trading-strategy-and-its-risk-measurement).
+  * Published in *Statistics and Decision*; see [publication](/publication/2014-09-01-copulas-based-algorithmic-trading-strategy-and-its-risk-measurement).
 
 * **Deep Learning for Finance (SenseTime Internship)**, 2018  
   * TCN and LSTM models for futures prediction; simulated limit-order-book environment for reinforcement learning research.
