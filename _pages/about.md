@@ -12,9 +12,9 @@ redirect_from:
   <p class="eyebrow">Quantitative AI Researcher · PhD, MMLab CUHK</p>
   <h1>Building end-to-end AI investment systems.</h1>
   <p class="hero-copy">
-    I work on deep learning systems for active investing, adaptive factor modeling, market regime detection,
-    and event-driven trading. My work connects academic research with deployable quantitative investment
-    systems across Chinese equity markets.
+    I work on deep learning systems for live quantitative investment, covering A-share and overseas markets,
+    adaptive factor modeling, market regime detection, and event-driven trading. My work connects academic
+    AI research with deployable investment systems.
   </p>
   <div class="hero-actions">
     <a class="button-primary" href="/cv/">View CV</a>
@@ -29,20 +29,32 @@ redirect_from:
     <p>End-to-end active investing, online adaptive factor models, event-driven trading, and financial knowledge graphs.</p>
   </div>
   <div class="profile-card">
-    <h3>Industry</h3>
-    <p>Experience at a top-tier asset management firm in mainland China and a top-tier hedge fund in Hong Kong.</p>
+    <h3>Live Investment</h3>
+    <p>Practical AI quant systems for A-share and overseas markets, spanning signals, backtesting, and portfolio construction.</p>
   </div>
   <div class="profile-card">
     <h3>Collaboration</h3>
-    <p>Working closely with <a href="https://www.idea.edu.cn/jian-guo">Prof. Jian Guo</a> on next-generation quant AI systems.</p>
+    <p>Open to research, client, and investment collaboration around end-to-end AI quantitative investment systems.</p>
   </div>
 </section>
 
-## Biography
+## About
 
-**Zikai (Nathaniel) Wei** earned his PhD in Information Engineering from The Chinese University of Hong Kong (2023), where he trained at the Multimedia Laboratory (MMLab) under Prof. Xiaoou Tang and Prof. Dahua Lin. He also holds an MPhil in Applied Mathematics from The Hong Kong Polytechnic University (2017).
+**Zikai (Nathaniel) Wei** is a quantitative AI researcher focused on end-to-end investment systems. He earned his PhD in Information Engineering from The Chinese University of Hong Kong (2023), where he trained at the Multimedia Laboratory (MMLab) under Prof. Xiaoou Tang and Prof. Dahua Lin.
+
+He works closely with [Prof. Jian Guo](https://www.idea.edu.cn/jian-guo) on next-generation quant AI, including event-driven trading, financial knowledge graphs, and large-scale adaptive factor models. His industry experience spans a top-tier asset management firm in mainland China and a top-tier hedge fund in Hong Kong, with practical work on live quantitative investment systems.
 
 His research includes pioneering end-to-end active investing ([E2EAI](/publication/2023-11-01-e2eai-end-to-end-deep-learning-framework-for-active-investing)), the online adaptive factor model [HireVAE](/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model) (IJCAI 2023), and co-first-author work on end-to-end event-driven trading ([Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling)).
+
+## Collaboration & Investment
+
+My team and I work on live AI-driven quantitative investment strategies, including A-share quantitative investment, overseas quantitative investment, and end-to-end AI quant systems. We welcome conversations with institutional clients, investors, and research collaborators interested in AI investment systems, systematic strategies, and data-driven portfolio construction.
+
+For collaboration or investment inquiries, please contact [w.nathaniel.s@gmail.com](mailto:w.nathaniel.s@gmail.com).
+
+## Mentorship
+
+I also serve as an external mentor for students and research teams from universities in the Greater Bay Area, especially for projects related to AI for finance, quantitative investment, deep learning, and real-world investment system development.
 
 <section class="feature-list">
   <a class="feature-item" href="/publication/2023-11-01-e2eai-end-to-end-deep-learning-framework-for-active-investing">
