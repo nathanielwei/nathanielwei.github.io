@@ -56,9 +56,9 @@ Selected research projects in **AI-driven quantitative investment**, from academ
   * Fuzzy and multivariate GARCH methods for stock market volatility forecasting and risk management.  
   * See [MPhil thesis](/publication/2017-01-01-volatility-forecasting-with-fuzzy-methods) and [IJFS paper (2018)](/publication/2018-01-01-a-novel-multivariate-volatility-modeling-for-risk-management-in-stock-markets).
 
-* **Algorithmic Trading with Copulas**, 2014 (Shenzhen University)  
+* **Algorithmic Trading with Copulas**, 2014  
   * Copula-based pairs trading strategy and risk measurement.  
-  * Published in *Statistics and Decision*; see [publication](/publication/2014-09-01-copulas-based-algorithmic-trading-strategy-and-its-risk-measurement).
+  * Published in *Statistics and Decision*.
 
 * **Deep Learning for Finance (SenseTime Internship)**, 2018  
   * TCN and LSTM models for futures prediction; simulated limit-order-book environment for reinforcement learning research.
