@@ -12,9 +12,9 @@ redirect_from:
   <p class="eyebrow">Quantitative AI Researcher · PhD, MMLab CUHK</p>
   <h1>Building end-to-end AI investment systems.</h1>
   <p class="hero-copy">
-    I work on deep learning systems for live quantitative investment, covering A-share and overseas markets,
-    adaptive factor modeling, market regime detection, and event-driven trading. My work connects academic
-    AI research with deployable investment systems.
+    I work on deep learning systems for active investing, adaptive factor modeling, market regime detection,
+    and event-driven trading. My work connects academic research with deployable quantitative investment
+    systems across Chinese equity markets and global markets.
   </p>
   <div class="hero-actions">
     <a class="button-primary" href="/cv/">View CV</a>
