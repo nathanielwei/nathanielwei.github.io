@@ -7,6 +7,24 @@ author_profile: true
 
 Selected research projects in **AI-driven quantitative investment**, from academic prototypes to industry deployment.
 
+<section class="feature-list">
+  <a class="feature-item" href="/publication/2023-11-01-e2eai-end-to-end-deep-learning-framework-for-active-investing">
+    <span>System</span>
+    <strong>End-to-End Active Investing</strong>
+    <p>Unified learning objective across factors, stock selection, and portfolio construction.</p>
+  </a>
+  <a class="feature-item" href="/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model">
+    <span>Model</span>
+    <strong>Adaptive Factor Modeling</strong>
+    <p>Regime-switching VAE for online factor estimation under changing markets.</p>
+  </a>
+  <a class="feature-item" href="/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling">
+    <span>Frontier</span>
+    <strong>Event-Driven AI Trading</strong>
+    <p>Financial news events as primary decision units for trading systems.</p>
+  </a>
+</section>
+
 ## AI Quantitative Investment
 
 * **End-to-End Active Investing (E2EAI)**, 2022–2023  

@@ -25,9 +25,176 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 <style>
-  .cv-publications { list-style: none; padding-left: 0; margin-top: 0.5em; }
-  .cv-publications li { margin-bottom: 0.85em; line-height: 1.45; }
-  .cv-publication-meta { color: #595959; font-size: 0.92em; }
+  :root {
+    --nw-blue: #155e75;
+    --nw-blue-dark: #0f3f52;
+    --nw-blue-soft: #e8f4f8;
+    --nw-ink: #1f2933;
+    --nw-muted: #5f6b7a;
+    --nw-border: #d9e2ec;
+    --nw-card: #ffffff;
+  }
+
+  .page__content {
+    color: var(--nw-ink);
+  }
+
+  .page__content h2 {
+    margin-top: 1.6em;
+    padding-bottom: 0.25em;
+    border-bottom: 1px solid var(--nw-border);
+    color: var(--nw-blue-dark);
+  }
+
+  .profile-hero {
+    margin: 0 0 1.75rem;
+    padding: 2rem;
+    border: 1px solid var(--nw-border);
+    border-radius: 18px;
+    background:
+      radial-gradient(circle at top right, rgba(21, 94, 117, 0.16), transparent 32%),
+      linear-gradient(135deg, #f8fbfc 0%, #eef7fa 100%);
+    box-shadow: 0 14px 35px rgba(15, 63, 82, 0.08);
+  }
+
+  .profile-hero .eyebrow {
+    margin: 0 0 0.55rem;
+    color: var(--nw-blue);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .profile-hero h1 {
+    margin: 0 0 0.8rem;
+    color: var(--nw-blue-dark);
+    font-size: clamp(1.8rem, 3vw, 2.65rem);
+    line-height: 1.12;
+  }
+
+  .hero-copy {
+    max-width: 48rem;
+    color: var(--nw-muted);
+    font-size: 1.04rem;
+    line-height: 1.7;
+  }
+
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: 1.2rem;
+  }
+
+  .button-primary,
+  .button-secondary {
+    display: inline-block;
+    padding: 0.62rem 1rem;
+    border-radius: 999px;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .button-primary {
+    background: var(--nw-blue);
+    color: #fff !important;
+  }
+
+  .button-secondary {
+    border: 1px solid var(--nw-border);
+    background: #fff;
+    color: var(--nw-blue-dark) !important;
+  }
+
+  .profile-grid,
+  .feature-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(205px, 1fr));
+    gap: 1rem;
+    margin: 1.25rem 0 1.75rem;
+  }
+
+  .profile-card,
+  .feature-item {
+    padding: 1rem;
+    border: 1px solid var(--nw-border);
+    border-radius: 14px;
+    background: var(--nw-card);
+    box-shadow: 0 8px 22px rgba(15, 63, 82, 0.055);
+  }
+
+  .profile-card h3 {
+    margin-top: 0;
+    color: var(--nw-blue-dark);
+  }
+
+  .profile-card p,
+  .feature-item p {
+    margin-bottom: 0;
+    color: var(--nw-muted);
+  }
+
+  .feature-item {
+    text-decoration: none;
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+  }
+
+  .feature-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 28px rgba(15, 63, 82, 0.1);
+  }
+
+  .feature-item span {
+    display: block;
+    margin-bottom: 0.3rem;
+    color: var(--nw-blue);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .feature-item strong {
+    display: block;
+    color: var(--nw-blue-dark);
+    font-size: 1.05rem;
+  }
+
+  .cv-publications {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 0.85rem;
+    padding-left: 0;
+    margin-top: 1rem;
+    list-style: none;
+  }
+
+  .cv-publications li {
+    margin: 0;
+    padding: 0.85rem;
+    border: 1px solid var(--nw-border);
+    border-radius: 12px;
+    background: #fff;
+    line-height: 1.45;
+  }
+
+  .cv-publication-meta {
+    color: var(--nw-muted);
+    font-size: 0.92em;
+  }
+
+  .page__content table {
+    overflow: hidden;
+    border-radius: 12px;
+    border: 1px solid var(--nw-border);
+    box-shadow: 0 8px 22px rgba(15, 63, 82, 0.045);
+  }
+
+  .page__content table th {
+    background: var(--nw-blue-soft);
+    color: var(--nw-blue-dark);
+  }
 </style>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>

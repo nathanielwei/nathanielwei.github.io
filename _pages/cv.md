@@ -9,9 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Quantitative AI researcher with a PhD from MMLab, CUHK. Industry experience at a top-tier hedge fund (Hong Kong) and a top-tier asset management firm (mainland China). Research focus: end-to-end deep learning for active investing, adaptive factor models, and event-driven trading. Collaborating with [Prof. Jian Guo](https://www.idea.edu.cn/jian-guo) on next-generation quant AI systems.
-
-**Contact:** [w.nathaniel.s@gmail.com](mailto:w.nathaniel.s@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=mZn8X9UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8749-2188) · [GitHub](https://github.com/nathanielwei)
+<section class="profile-hero cv-hero">
+  <p class="eyebrow">Curriculum Vitae</p>
+  <h1>Zikai (Nathaniel) Wei</h1>
+  <p class="hero-copy">
+    Quantitative AI researcher with a PhD from MMLab, CUHK. Industry experience at a top-tier hedge fund
+    in Hong Kong and a top-tier asset management firm in mainland China. Research focus: end-to-end deep
+    learning for active investing, adaptive factor models, and event-driven trading.
+  </p>
+  <div class="hero-actions">
+    <a class="button-primary" href="mailto:w.nathaniel.s@gmail.com">Email</a>
+    <a class="button-secondary" href="https://scholar.google.com/citations?user=mZn8X9UAAAAJ&hl=en">Google Scholar</a>
+    <a class="button-secondary" href="https://orcid.org/0000-0002-8749-2188">ORCID</a>
+    <a class="button-secondary" href="https://github.com/nathanielwei">GitHub</a>
+  </div>
+</section>
 
 ---
 
