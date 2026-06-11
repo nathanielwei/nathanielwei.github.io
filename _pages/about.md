@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "PhD from MMLab, CUHK | Quantitative AI Researcher | AI-driven investment systems"
+excerpt: "PhD, MMLab CUHK | Quantitative AI Researcher | End-to-end AI investment systems"
 author_profile: true
 redirect_from: 
   - /about/
