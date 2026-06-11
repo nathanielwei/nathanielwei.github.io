@@ -195,6 +195,133 @@
     background: var(--nw-blue-soft);
     color: var(--nw-blue-dark);
   }
+
+  .pub-hero {
+    margin-bottom: 1.5rem;
+    padding: 1.6rem;
+    border: 1px solid var(--nw-border);
+    border-radius: 18px;
+    background:
+      radial-gradient(circle at top left, rgba(21, 94, 117, 0.14), transparent 32%),
+      linear-gradient(135deg, #f8fbfc 0%, #ffffff 100%);
+  }
+
+  .pub-hero .eyebrow {
+    margin: 0 0 0.4rem;
+    color: var(--nw-blue);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .pub-hero h1 {
+    margin: 0 0 0.55rem;
+    color: var(--nw-blue-dark);
+  }
+
+  .pub-hero p {
+    max-width: 48rem;
+    margin-bottom: 0;
+    color: var(--nw-muted);
+    line-height: 1.65;
+  }
+
+  .publication-timeline {
+    margin-top: 1.4rem;
+  }
+
+  .pub-year {
+    margin-top: 1.75rem !important;
+    border-bottom: 0 !important;
+    color: var(--nw-blue);
+    font-size: 1.25rem;
+  }
+
+  .pub-year-group {
+    display: grid;
+    gap: 0.85rem;
+  }
+
+  .publication-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: start;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--nw-border);
+    border-radius: 14px;
+    background: #fff;
+    box-shadow: 0 8px 22px rgba(15, 63, 82, 0.045);
+  }
+
+  .publication-card h3 {
+    margin: 0 0 0.35rem;
+    font-size: 1.05rem;
+    line-height: 1.35;
+  }
+
+  .publication-card h3 a {
+    color: var(--nw-blue-dark);
+    text-decoration: none;
+  }
+
+  .publication-card h3 a:hover {
+    text-decoration: underline;
+  }
+
+  .publication-meta {
+    margin: 0 0 0.4rem;
+    color: var(--nw-muted);
+    font-size: 0.92rem;
+    line-height: 1.45;
+  }
+
+  .publication-citation {
+    color: var(--nw-muted);
+    font-size: 0.88rem;
+  }
+
+  .publication-citation summary {
+    cursor: pointer;
+    color: var(--nw-blue);
+    font-weight: 700;
+  }
+
+  .publication-citation p {
+    margin: 0.45rem 0 0;
+    line-height: 1.55;
+  }
+
+  .publication-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+  }
+
+  .publication-actions a {
+    min-width: 5.2rem;
+    padding: 0.42rem 0.65rem;
+    border: 1px solid var(--nw-border);
+    border-radius: 999px;
+    color: var(--nw-blue-dark) !important;
+    background: var(--nw-blue-soft);
+    font-size: 0.84rem;
+    font-weight: 700;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  @media (max-width: 640px) {
+    .publication-card {
+      grid-template-columns: 1fr;
+    }
+
+    .publication-actions {
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+  }
 </style>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
