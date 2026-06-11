@@ -40,7 +40,7 @@ redirect_from:
 
 ## Biography
 
-**Zikai (Nathaniel) Wei** earned his PhD in Information Engineering from The Chinese University of Hong Kong (2023), where he trained at the Multimedia Laboratory (MMLab) under Prof. Xiaoou Tang and Prof. Dahua Lin. He also holds an MPhil in Applied Mathematics from The Hong Kong Polytechnic University (2017) and a BA in Finance and Banking from Shenzhen University (2013).
+**Zikai (Nathaniel) Wei** earned his PhD in Information Engineering from The Chinese University of Hong Kong (2023), where he trained at the Multimedia Laboratory (MMLab) under Prof. Xiaoou Tang and Prof. Dahua Lin. He also holds an MPhil in Applied Mathematics from The Hong Kong Polytechnic University (2017).
 
 His research includes pioneering end-to-end active investing ([E2EAI](/publication/2023-11-01-e2eai-end-to-end-deep-learning-framework-for-active-investing)), the online adaptive factor model [HireVAE](/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model) (IJCAI 2023), and co-first-author work on end-to-end event-driven trading ([Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling)).
 
