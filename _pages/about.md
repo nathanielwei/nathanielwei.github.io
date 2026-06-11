@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zikai (Nathaniel) Wei is a quantitative AI researcher focused on AI-driven quantitative investment and deep learning. He has industry experience at a top-tier hedge fund in Hong Kong and a top-tier asset management firm in mainland China, where he designed, backtested, and deployed deep learning strategies across large- and mid-cap equity indices (including CSI 300, CSI 500, and CSI 1000), combining factor investing, active portfolio construction, and event-driven approaches.
+Zikai (Nathaniel) Wei is a quantitative AI researcher focused on AI-driven quantitative investment and deep learning. He currently works closely with [Prof. Jian Guo](https://www.idea.edu.cn/jian-guo) on next-generation quant AI systems, including event-driven trading and financial knowledge graphs. He has industry experience at a top-tier hedge fund in Hong Kong and a top-tier asset management firm in mainland China, where he designed, backtested, and deployed deep learning strategies across large- and mid-cap equity indices (including CSI 300, CSI 500, and CSI 1000), combining factor investing, active portfolio construction, and event-driven approaches.
 
 He earned his PhD in Information Engineering in 2023 from The Chinese University of Hong Kong (CUHK), under Prof. Xiaoou Tang and Prof. Dahua Lin at the Multimedia Laboratory (MMLab). He previously completed an MPhil in Applied Mathematics at The Hong Kong Polytechnic University (2017) and a BA in Finance and Banking at Shenzhen University (2013).
 

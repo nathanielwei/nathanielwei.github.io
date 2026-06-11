@@ -5,24 +5,40 @@ permalink: /projects/
 author_profile: true
 ---
 
-* Optimal execution, Feb 2018 - Jul 2018
-  * Presented and facilitated discussion during three China International Capital Corporation meetings to present our proposal and research outcomes to Managing Directors, Executive Directors, and Analysts.
-  * Conducted research on financial and commodity futures using Deep Learning. I implemented Temporal Convolutional Networks and Long Short Term Memory Networks for classification problems in finance. For limited order book data, I designed an environment to mimic the historical market to train and test our reinforcement algorithm.
- of Intelligent Finance
+## AI Quantitative Investment
 
+* **End-to-End Active Investing (E2EAI)**, 2022–2023  
+  * Built one of the first end-to-end deep learning frameworks covering factor selection, stock selection, and portfolio construction under a unified objective for active investing.  
+  * Published at [ICAIF '23](/publication/2023-11-01-e2eai-end-to-end-deep-learning-framework-for-active-investing); deployed in industry backtests and live trading pipelines.
 
-* "Artificial Intelligence in Finance", Apr 2017 - Feb 2018
+* **HireVAE: Online Adaptive Factor Model**, 2022–2023  
+  * Developed a hierarchical, regime-switching VAE for online factor estimation that adapts to changing market conditions using only point-in-time information.  
+  * Published at [IJCAI 2023](/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model); applied to multi-market factor investing research.
 
-  * one is using multiple layers of stacked Long Short Term Memory Networks to conduct jump detections among 11 global stock market indexes in both developed and emerging markets in US, China, Hong Kong, Taiwan, Japan, UK, Germany, and Israel.
-  * Designed and implemented a multiprocessing framework that processes 30+ indicators of all A-H minute bar shares and the estimation of their regime switching models, including Monte Carlo simulation for the future.
+* **Deep Multi-Factor Model**, 2022  
+  * Designed a graph-attention deep factor model with industry/market neutralization and interpretable factor composition on a dynamic multi-relational stock graph.  
+  * Presented at NeurIPS 2022 GLInd Workshop; see [publication](/publication/2022-10-22-factor-investing-with-a-deep-multi-factor-model).
 
-* Quantitative Investment, Feb 2016 - Apr 2017
-  * Conducted investment research on trading strategies and risk management. Usually, the results persuaded us to rethink our rationale and redesign models. My research involved the use of widely used and customizable tools through basic trading indicators statistical models (univariate and multivariate GARCHs) and traditional machine learning techniques. For risk management, jump detection tools were used to capture the frequency of detected jumps.
-  * Designed pattern recognition algorithms, including one class that uses a rule-based algorithm to find specific intraday patterns (e.g., stair-shape) or daily patterns (e.g., cup-shape). I also designed a high-level algorithm class to find similar patterns with scores based on a hybrid method of Hidden Markov Models and traditional clustering methods.
-  * performed data maintenance by downloading and backing up all transaction data (one-minute bar) for the mainland stocks and commodity markets
+* **Live AI Quant Strategies (CSI 300 / CSI 1000)**, 2022–2024  
+  * Designed and managed deep learning strategies for large- and mid/small-cap A-share indices at a top-tier asset management firm in mainland China.  
+  * Built end-to-end research platforms, automated model pipelines, and a multi-agent GPT factor discovery framework.
 
-* Fund of Funds, Apr 2016 - Oct 2016
-  * Gave investment research support to the Fund of Funds.
-  * Designed and implemented a fund scoring system to select qualified listed funds in the mainland financial markets.
+* **Event-Driven AI Trading & Financial Knowledge Graphs**, 2024–Present  
+  * Collaborating with Prof. Jian Guo on [Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling) (end-to-end event-driven trading via hierarchical-gated reward modeling) and [FinKario](/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph) (event-enhanced financial knowledge graph construction).
 
+## Earlier Research
 
+* **Jump Detection in Global Equity Markets**, 2017–2018 (PolyU)  
+  * Stacked LSTM networks for jump detection across 11 global stock indices; parallel regime-switching framework on high-frequency A-H share data.  
+  * Led to [Soft Computing publication (2020)](/publication/2020-01-01-jump-detection-in-financial-time-series-using-machine-learning-algorithms).
+
+* **Volatility Modeling & Risk Management**, 2014–2017 (PolyU MPhil)  
+  * Fuzzy and multivariate GARCH methods for stock market volatility forecasting and risk management.  
+  * See [MPhil thesis](/publication/2017-01-01-volatility-forecasting-with-fuzzy-methods) and [IJFS paper (2018)](/publication/2018-01-01-a-novel-multivariate-volatility-modeling-for-risk-management-in-stock-markets).
+
+* **Algorithmic Trading with Copulas**, 2014 (Shenzhen University)  
+  * Copula-based pairs trading strategy and risk measurement.  
+  * Published in *统计与决策* (Statistics and Decision); see [publication](/publication/2014-09-01-copulas-based-algorithmic-trading-strategy-and-its-risk-measurement).
+
+* **Deep Learning for Finance (SenseTime Internship)**, 2018  
+  * TCN and LSTM models for futures prediction; simulated limit-order-book environment for reinforcement learning research.

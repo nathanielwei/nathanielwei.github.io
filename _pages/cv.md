@@ -15,6 +15,7 @@ Work experience
 ======
 * Present: Quantitative AI Researcher
     * Research on next-generation AI-driven quantitative investment, including end-to-end deep learning frameworks, adaptive factor modeling, market regime detection, and event-driven prediction.
+    * Working closely with Prof. Jian Guo on event-driven AI trading and financial knowledge graph systems ([Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling), [FinKario](/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph)).
 * Sep 2024 - Mar 2025: Analyst, Investment, top-tier hedge fund, Hong Kong SAR
     * Built multi-market monitoring and analytics for short interest and cross-border flows; developed event-driven backtesting frameworks and automated integration of global factor datasets (Bloomberg/Barra).
 * May 2022 - Sep 2024: Quantitative Researcher, top-tier asset management firm, mainland China
