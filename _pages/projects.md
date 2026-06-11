@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Projects"
+title: "Research"
 permalink: /projects/
 author_profile: true
 ---
+
+Selected research projects in **AI-driven quantitative investment**, from academic prototypes to industry deployment.
 
 ## AI Quantitative Investment
 

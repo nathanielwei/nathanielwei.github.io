@@ -9,59 +9,74 @@ redirect_from:
 
 {% include base_path %}
 
+Quantitative AI researcher with a PhD from MMLab, CUHK. Industry experience at a top-tier hedge fund (Hong Kong) and a top-tier asset management firm (mainland China). Research focus: end-to-end deep learning for active investing, adaptive factor models, and event-driven trading. Collaborating with [Prof. Jian Guo](https://www.idea.edu.cn/jian-guo) on next-generation quant AI systems.
 
+**Contact:** [w.nathaniel.s@gmail.com](mailto:w.nathaniel.s@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=mZn8X9UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8749-2188) · [GitHub](https://github.com/nathanielwei)
 
-Work experience
-======
-* Present: Quantitative AI Researcher
-    * Research on next-generation AI-driven quantitative investment, including end-to-end deep learning frameworks, adaptive factor modeling, market regime detection, and event-driven prediction.
-    * Working closely with Prof. Jian Guo on event-driven AI trading and financial knowledge graph systems ([Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling), [FinKario](/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph)).
-* Sep 2024 - Mar 2025: Analyst, Investment, top-tier hedge fund, Hong Kong SAR
-    * Built multi-market monitoring and analytics for short interest and cross-border flows; developed event-driven backtesting frameworks and automated integration of global factor datasets (Bloomberg/Barra).
-* May 2022 - Sep 2024: Quantitative Researcher, top-tier asset management firm, mainland China
-    * Designed and managed deep learning strategies for CSI 300/800 and mid/small-cap indices; built quant AI research platforms and led a cross-functional team delivering end-to-end model pipelines.
-    * Developed models including a multi-agent GPT factor discovery framework and the [HireVAE](/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model) hybrid regime-switching factor model.
-* Feb 2018 - Jul 2018: Research Intern, SenseTime Group Limited, Hong Kong SAR
-    * Developed TCN and LSTM models for financial and commodity futures prediction; built a simulated market environment for reinforcement learning on limit order book data.
-* Apr 2017 - Feb 2018: Research Assistant, The Hong Kong Polytechnic University, Hong Kong SAR
-    * Applied deep learning to jump detection across 11 global stock indices; designed parallel frameworks for regime-switching modeling on high-frequency market data.
-    * Supervisors: Prof. Heung Wong and Prof. Cedric Ka-Fai Yiu
+---
 
+## Education
 
+* **Ph.D., Information Engineering** — The Chinese University of Hong Kong, Aug 2018 – Jul 2023  
+  MMLab; advisors: Prof. Xiaoou Tang, Prof. Dahua Lin  
+  *Thesis:* [Deep Learning for Predicting Real-World Outcomes](/publication/2023-01-01-deep-learning-for-predicting-real-world-outcomes)
 
-Education
-======
-* Ph.D. in Information Engineering, The Chinese University of Hong Kong, Aug 2018 - Jul 2023
-    * MMLab; supervisors: Prof. Xiaoou Tang and Prof. Dahua Lin
-    * Research: deep learning, sequential modeling, quantitative investment
-* M.Phil. in Applied Mathematics, The Hong Kong Polytechnic University, Jan 2014 - May 2017
-    * Supervisors: Prof. Heung Wong and Prof. Cedric Ka-Fai Yiu
-    * Research: financial statistics, volatility modeling
-* B.A. in Finance and Banking, Shenzhen University, Sep 2009 - Jun 2013
-    * Outstanding Graduate (rank 1/405); GPA 3.9/4.0
+* **M.Phil., Applied Mathematics** — The Hong Kong Polytechnic University, Jan 2014 – May 2017  
+  Advisors: Prof. Heung Wong, Prof. Cedric Ka-Fai Yiu
 
+* **B.A., Finance and Banking** — Shenzhen University, Sep 2009 – Jun 2013  
+  Outstanding Graduate (rank 1/405); GPA 3.9/4.0
 
-Skills
-======
-* Deep Learning & AI for Quantitative Finance: PyTorch; end-to-end quant frameworks, factor models, regime detection
-* Programming: Python (primary), R, Matlab, C++, SQL
-* Platforms: Linux, macOS, Windows
-* Financial Data: Bloomberg, Barra, WIND, FactSet, Refinitiv
+---
 
+## Experience
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* **Quantitative AI Researcher** — Present  
+  End-to-end deep learning, adaptive factor modeling, market regime detection, and event-driven prediction. Working with Prof. Jian Guo on [Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling) and [FinKario](/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph).
 
-  
-Awards
-======
-* 2023: China Merchants Group New Star Training Camp — Outstanding Individual
-* 2019: CUHK-SenseTime Joint Lab Excellent Contribution Award
-* 2018-2023: Postgraduate Studentship, The Chinese University of Hong Kong
-* 2015: Teaching Postgraduate Studentship, The Hong Kong Polytechnic University
-* 2013: Outstanding Graduate, Shenzhen University (1st in Dept. of Finance and Banking)
-* 2012: National Postgraduate Recommendation (entrance examination waived)
+* **Analyst, Investment** — Top-tier hedge fund, Hong Kong SAR, Sep 2024 – Mar 2025  
+  Multi-market monitoring, event-driven backtesting, global factor data integration (Bloomberg/Barra).
+
+* **Quantitative Researcher** — Top-tier asset management firm, mainland China, May 2022 – Sep 2024  
+  Deep learning strategies for CSI 300/800 and mid/small-cap indices; led quant AI platform development. Models include [HireVAE](/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model) and multi-agent GPT factor discovery.
+
+* **Research Intern** — SenseTime Group Limited, Hong Kong SAR, Feb – Jul 2018  
+  TCN/LSTM for financial futures; RL environment for limit order book data.
+
+* **Research Assistant** — The Hong Kong Polytechnic University, Apr 2017 – Feb 2018  
+  Deep learning jump detection across 11 global indices; regime-switching on high-frequency data.
+
+---
+
+## Publications
+
+*Selected work in quantitative finance and AI. Full list: [Publications](/publications/) · [Google Scholar](https://scholar.google.com/citations?user=mZn8X9UAAAAJ&hl=en).*
+
+<ul class="cv-publications">
+{% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
+{% for post in sorted_pubs %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+## Skills
+
+| Area | Details |
+|------|---------|
+| **Quant AI** | End-to-end investment systems, factor models, regime detection, event-driven signals |
+| **Deep Learning** | PyTorch; graph attention, VAE, reinforcement learning |
+| **Programming** | Python, SQL, R, Matlab, C++ |
+| **Financial Data** | Bloomberg, Barra, WIND, FactSet, Refinitiv |
+
+---
+
+## Honors & Awards
+
+* 2023 — China Merchants Group New Star Training Camp, Outstanding Individual
+* 2019 — CUHK-SenseTime Joint Lab Excellent Contribution Award
+* 2018–2023 — Postgraduate Studentship, CUHK
+* 2015 — Teaching Postgraduate Studentship, PolyU
+* 2013 — Outstanding Graduate, Shenzhen University (1st in Finance & Banking)
+* 2012 — National Postgraduate Recommendation (examination waived)
