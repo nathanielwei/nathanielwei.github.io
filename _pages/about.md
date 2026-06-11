@@ -48,7 +48,7 @@ His research includes pioneering end-to-end active investing ([E2EAI](/publicati
 
 ## Collaboration & Investment
 
-My team and I work on live AI-driven quantitative investment strategies, including Chinese equity markets, global markets, and end-to-end AI investment systems. We welcome conversations with institutional clients, investors, and research collaborators interested in systematic strategies, data-driven portfolio construction, and deployable AI investment systems.
+My team and I work on live AI-driven quantitative investment strategies across Chinese equity markets and global markets, based on end-to-end AI investment systems. We welcome conversations with institutional clients, investors, and research collaborators interested in systematic strategies, data-driven portfolio construction, and deployable AI investment systems.
 
 We can also discuss customized strategy development for different mandates, markets, risk preferences, and investment horizons.
 

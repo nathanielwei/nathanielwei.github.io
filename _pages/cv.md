@@ -60,15 +60,17 @@ redirect_from:
 
 ---
 
-## Publications
+## Selected Publications
 
-*Selected work in quantitative finance and AI. Full list: [Publications](/publications/) · [Google Scholar](https://scholar.google.com/citations?user=mZn8X9UAAAAJ&hl=en).*
+*Selected work most relevant to quantitative AI and investment systems. Full bibliography: [Publications](/publications/) · [Google Scholar](https://scholar.google.com/citations?user=mZn8X9UAAAAJ&hl=en).*
 
 <ul class="cv-publications">
-{% assign sorted_pubs = site.publications | sort: 'date' | reverse %}
-{% for post in sorted_pubs %}
-  {% include archive-single-cv.html %}
-{% endfor %}
+  <li><strong><a href="/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling">Janus-Q: End-to-End Event-Driven Trading via Hierarchical-Gated Reward Modeling</a></strong><br><span class="cv-publication-meta"><em>arXiv:2602.19919</em>, 2026</span></li>
+  <li><strong><a href="/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph">FinKario: Event-Enhanced Automated Construction of Financial Knowledge Graph</a></strong><br><span class="cv-publication-meta"><em>arXiv:2508.00961</em>, 2025</span></li>
+  <li><strong><a href="/publication/2023-11-01-e2eai-end-to-end-deep-learning-framework-for-active-investing">E2EAI: End-to-End Deep Learning Framework for Active Investing</a></strong><br><span class="cv-publication-meta"><em>ICAIF '23</em>, 2023</span></li>
+  <li><strong><a href="/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model">HireVAE: An Online and Adaptive Factor Model Based on Hierarchical and Regime-Switch VAE</a></strong><br><span class="cv-publication-meta"><em>IJCAI</em>, 2023</span></li>
+  <li><strong><a href="/publication/2022-10-22-factor-investing-with-a-deep-multi-factor-model">Factor Investing with a Deep Multi-Factor Model</a></strong><br><span class="cv-publication-meta"><em>NeurIPS GLInd Workshop / arXiv:2210.12462</em>, 2022</span></li>
+  <li><strong><a href="/publication/2020-01-01-jump-detection-in-financial-time-series-using-machine-learning-algorithms">Jump Detection in Financial Time Series using Machine Learning Algorithms</a></strong><br><span class="cv-publication-meta"><em>Soft Computing</em>, 2020</span></li>
 </ul>
 
 ---
