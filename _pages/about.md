@@ -48,9 +48,11 @@ His research includes pioneering end-to-end active investing ([E2EAI](/publicati
 
 ## Collaboration & Investment
 
-My team and I work on live AI-driven quantitative investment strategies, including A-share quantitative investment, overseas quantitative investment, and end-to-end AI quant systems. We welcome conversations with institutional clients, investors, and research collaborators interested in AI investment systems, systematic strategies, and data-driven portfolio construction.
+My team and I work on live AI-driven quantitative investment strategies, including Chinese equity markets, global markets, and end-to-end AI investment systems. We welcome conversations with institutional clients, investors, and research collaborators interested in systematic strategies, data-driven portfolio construction, and deployable AI investment systems.
 
-For collaboration or investment inquiries, please contact [w.nathaniel.s@gmail.com](mailto:w.nathaniel.s@gmail.com).
+We can also discuss customized strategy development for different mandates, markets, risk preferences, and investment horizons.
+
+For collaboration or investment inquiries, please [contact me](mailto:w.nathaniel.s@gmail.com).
 
 ## Mentorship
 
@@ -76,4 +78,4 @@ I also serve as an external mentor for students and research teams from universi
 
 ## Internship Opportunities
 
-I am open to recruiting interns interested in building AI investment systems: data pipelines, factor and regime modeling, event-driven signals, and end-to-end strategy research and backtesting. Strong Python/PyTorch skills and interest in quantitative finance are welcome. Contact: [w.nathaniel.s@gmail.com](mailto:w.nathaniel.s@gmail.com).
+I am open to recruiting interns interested in building AI investment systems: data pipelines, factor and regime modeling, event-driven signals, and end-to-end strategy research and backtesting. Strong Python/PyTorch skills and interest in quantitative finance are welcome. Please [contact me](mailto:w.nathaniel.s@gmail.com) to discuss opportunities.
