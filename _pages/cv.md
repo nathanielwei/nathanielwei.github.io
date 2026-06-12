@@ -44,7 +44,7 @@ redirect_from:
 ## Experience
 
 * **Quantitative AI Researcher** — Present  
-  End-to-end deep learning, adaptive factor modeling, market regime detection, and event-driven prediction. Working with Prof. Jian Guo on [Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling) and [FinKario](/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph).
+  End-to-end deep learning, adaptive factor modeling, market regime detection, and event-driven prediction. Working with Prof. Jian Guo on [Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling).
 
 * **Analyst, Investment** — Top-tier hedge fund, Hong Kong SAR, Sep 2024 – Mar 2025  
   Multi-market monitoring, event-driven backtesting, global factor data integration (Bloomberg/Barra).
