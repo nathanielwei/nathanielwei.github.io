@@ -66,7 +66,7 @@ redirect_from:
 
 <ul class="cv-publications">
   <li><strong><a href="/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling">Janus-Q: End-to-End Event-Driven Trading via Hierarchical-Gated Reward Modeling</a></strong><br><span class="cv-publication-meta"><em>arXiv:2602.19919</em>, 2026</span></li>
-  <li><strong><a href="/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph">FinKario: Event-Enhanced Automated Construction of Financial Knowledge Graph</a></strong><br><span class="cv-publication-meta"><em>arXiv:2508.00961</em>, 2025</span></li>
+  <li><strong><a href="/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph">FinKario: Event-Enhanced Automated Construction of Financial Knowledge Graph</a></strong><br><span class="cv-publication-meta"><em>ACL 2026</em> (accepted)</span></li>
   <li><strong><a href="/publication/2023-11-01-e2eai-end-to-end-deep-learning-framework-for-active-investing">E2EAI: End-to-End Deep Learning Framework for Active Investing</a></strong><br><span class="cv-publication-meta"><em>ICAIF '23</em>, 2023</span></li>
   <li><strong><a href="/publication/2023-08-01-hirevae-an-online-and-adaptive-factor-model">HireVAE: An Online and Adaptive Factor Model Based on Hierarchical and Regime-Switch VAE</a></strong><br><span class="cv-publication-meta"><em>IJCAI</em>, 2023</span></li>
   <li><strong><a href="/publication/2022-10-22-factor-investing-with-a-deep-multi-factor-model">Factor Investing with a Deep Multi-Factor Model</a></strong><br><span class="cv-publication-meta"><em>NeurIPS GLInd Workshop / arXiv:2210.12462</em>, 2022</span></li>

@@ -44,7 +44,7 @@ Selected research projects in **AI-driven quantitative investment**, from academ
   * Built end-to-end research platforms, automated model pipelines, and a multi-agent GPT factor discovery framework.
 
 * **Event-Driven AI Trading & Financial Knowledge Graphs**, 2024–Present  
-  * Collaborating with Prof. Jian Guo on [Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling) (end-to-end event-driven trading via hierarchical-gated reward modeling) and [FinKario](/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph) (event-enhanced financial knowledge graph construction).
+  * Collaborating with Prof. Jian Guo on [Janus-Q](/publication/2026-02-23-janus-q-end-to-end-event-driven-trading-via-hierarchical-gated-reward-modeling) (end-to-end event-driven trading via hierarchical-gated reward modeling) and [FinKario](/publication/2025-08-01-finkario-event-enhanced-automated-construction-of-financial-knowledge-graph) (event-enhanced financial knowledge graph construction, accepted by ACL 2026).
 
 ## Earlier Research
 
